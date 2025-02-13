@@ -3,6 +3,7 @@ channels:
   - potassco
   - defaults
 dependencies:
+  - python=3.11
   - anaconda-anon-usage=0.4.4=py312hfc23b7f_100
   - archspec=0.2.3=pyhd3eb1b0_0
   - boltons=23.0.0=py312haa95532_0
